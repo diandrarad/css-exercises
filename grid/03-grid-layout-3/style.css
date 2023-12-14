@@ -23,6 +23,7 @@
   grid-column: 1 / 3;
   display: grid;
   grid-template-columns: 2fr 3fr;
+  align-items: center;
 }
 
 .menu ul,
